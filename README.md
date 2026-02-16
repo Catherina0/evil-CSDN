@@ -1,6 +1,9 @@
 # evil-CSDN
 fuck CSDN
 
+[English](./README.en-US.md) |
+[中文 天朝上国](./README.zh-SB.md)
+
 CSDN做过的坏事  
 
 1.未经授权转载内容：CSDN未经授权转载大量博客文章和技术资料，并且没有给予适当的署名或链接。  
