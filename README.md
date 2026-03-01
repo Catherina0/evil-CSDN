@@ -1,4 +1,4 @@
-# evilCSDN
+# evil CSDN
 ## Language Menu | 语言菜单 | Menu Langue | Языковое меню
 
 | Language (语言) | Link (链接) |
@@ -10,3 +10,8 @@
 > [!Note]
 >
 > 正在持续更新语言。
+> 若哪日该仓库消失，请留下您的 fork。
+> 去你妈的 CSDN！
+
+## 简介
+CSDN 干的傻逼事情 多语言合集
