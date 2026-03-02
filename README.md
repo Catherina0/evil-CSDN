@@ -5,6 +5,8 @@
 </div>
 
 ## 语言列表 (Language List)
+**排名不分名称先后，以翻译时间排序**
+
 | Language (语言) | Link (链接) |
 | ------ | ------ |
 | 中文：简体 | [点我](./languages/README.zh-CN.md) |
@@ -46,6 +48,9 @@
 | Српски: Србија | [Кликните овде](./languages/README.sr.md) |
 | Македонски: Македонија | [Кликнете тука](./languages/README.mk.md) |
 | Eesti: Eesti | [Klõpsake siin](./languages/README.et.md) |
+| Ελληνικά: Ελλάδα | [Κάντε κλικ εδώ](./languages/README.el.md) |
+| Latviešu: Latvija | [Noklikšķiniet šeit](./languages/README.lv.md) |
+| Lietuvių: Lietuva | [Spauskite čia](./languages/README.lt.md) |
 
 > [!Note]
 >
